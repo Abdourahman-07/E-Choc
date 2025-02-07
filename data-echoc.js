@@ -1,6 +1,6 @@
 export const products = [
   {
-    img: "../images/lait.bmp",
+    img: "./images/lait.bmp",
     title: "chocolats au lait",
     price: 15,
     quantity: 500,
@@ -8,7 +8,7 @@ export const products = [
     id: 1,
   },
   {
-    img: "../images/noir.bmp",
+    img: "./images/noir.bmp",
     title: "chocolats noirs",
     price: 20,
     quantity: 500,
@@ -17,7 +17,7 @@ export const products = [
     id: 2,
   },
   {
-    img: "../images/blanc.bmp",
+    img: "./images/blanc.bmp",
     title: "chocolats blancs",
     price: 30,
     quantity: 500,
@@ -26,7 +26,7 @@ export const products = [
     id: 3,
   },
   {
-    img: "../images/noisettes.bmp",
+    img: "./images/noisettes.bmp",
     title: "chocolats aux noisettes",
     price: 25,
     quantity: 500,
@@ -35,7 +35,7 @@ export const products = [
     id: 4,
   },
   {
-    img: "../images/coco.bmp",
+    img: "./images/coco.bmp",
     title: "chocolats à la noix de coco",
     price: 40,
     quantity: 500,
@@ -43,7 +43,7 @@ export const products = [
     id: 5,
   },
   {
-    img: "../images/lumineux.bmp",
+    img: "./images/lumineux.bmp",
     title: "chocolats lumineux",
     price: 50,
     quantity: 500,
@@ -52,7 +52,7 @@ export const products = [
     id: 6,
   },
   {
-    img: "../images/gaulois.bmp",
+    img: "./images/gaulois.bmp",
     title: "chocolats gaulois",
     price: 99.99,
     quantity: 300,
