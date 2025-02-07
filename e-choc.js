@@ -1,4 +1,4 @@
-import { products } from "./data_e-choc.js";
+import { products } from "./data-echoc.js";
 
 let choosedProducts = [];
 let totalSum = 0;
