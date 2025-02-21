@@ -57,7 +57,7 @@ export const products = [
     price: 99.99,
     quantity: 300,
     description:
-      "Ne vous laissez pas leurrer par le prix, un seul de ces chocolats en vaut bien 10. Tellement sa saveur reste en bouche !",
+      "Ne vous laissez pas leurrer par le prix, un seul de ces chocolats en vaut bien 10 !",
     id: 7,
   },
 ];

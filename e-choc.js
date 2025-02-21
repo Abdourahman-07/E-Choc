@@ -191,7 +191,9 @@ function listenQuantity(totalSum, products) {
       totalSum -= choosedProductPrice * selectedQuantityBefore;
       totalSum += choosedProductPrice * selectedQuantity;
       totalSum = totalSum.toFixed(2);
-      document.querySelector(".total").innerHTML = `Total : ${totalSum} €`;
+      document.querySelector(
+        ".products-list .total"
+      ).innerHTML = `Total : ${totalSum} €`;
       selectedQuantityBefore = selectedQuantity;
     });
   });
